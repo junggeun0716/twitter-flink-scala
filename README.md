@@ -1,1 +1,1 @@
-# flink-scala-example
+# twitter-flink-scala
