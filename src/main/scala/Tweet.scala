@@ -1,8 +1,5 @@
-package twitter
-
 import org.apache.flink.shaded.jackson2.com.fasterxml.jackson.core.JsonProcessingException
-import org.apache.flink.shaded.jackson2.com.fasterxml.jackson.databind.JsonNode
-import org.apache.flink.shaded.jackson2.com.fasterxml.jackson.databind.ObjectMapper
+import org.apache.flink.shaded.jackson2.com.fasterxml.jackson.databind.{JsonNode, ObjectMapper}
 
 import java.io.IOException
 import java.time.ZonedDateTime
